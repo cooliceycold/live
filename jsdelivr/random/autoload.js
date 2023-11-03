@@ -1,7 +1,3 @@
-// 注意：live2d_path 参数应使用绝对路径
-// const live2d_path =
-//   "https://fastly.jsdelivr.net/gh/nova1751/live2d-widget@latest/";
-
 const live2d_path =
   "https://jsd.cdn.zzko.cn/gh/nova1751/live2d-api@latest/";
 
