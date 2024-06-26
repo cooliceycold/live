@@ -1,5 +1,5 @@
 const live2d_path =
-  "https://gcore.jsdelivr.net/gh/cooliceycold/live/";
+  "https://fastly.doglink.cf/gh/cooliceycold/live/";
 
 // 封装异步加载资源的方法
 function loadExternalResource(url, type) {
@@ -32,7 +32,7 @@ if (screen.width >= 768) {
       waifuPath: live2d_path + "waifu-tips.json",
 
       // apiPath: "https://live2d.fghrsh.net/api/",
-      cdnPath: "https://gcore.jsdelivr.net/gh/cooliceycold/live/",
+      cdnPath: "https://fastly.doglink.cf/gh/cooliceycold/live/",
 
       tools: [
         "hitokoto",
